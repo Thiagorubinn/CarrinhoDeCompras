@@ -1,13 +1,10 @@
-## Objetivo
+## Carrinho de Compras em Node.js
 
-Criar um carrinho de compras baseado no carrinho de compras da Shopee, aonde o carrinho armazene itens e faça
-o cálculo de sub-itens automaticamente.
+Este projeto é um simples sistema de carrinho de compras desenvolvido em Node.js. Ele permite adicionar, deletar e remover itens do carrinho.
 
-// dominio da aplicação: carrinho de compras
-
-// AS entetidades representadas
-// -> carrinho = cart.js
-// -> itens = item.js
-
+Funcionalidades
+Adicionar Item: Adiciona um novo item ao carrinho.
+Deletar Item: Remove um item do carrinho baseado no ID.
+Atualizar Quantidade: Atualiza a quantidade de um item específico no carrinho, tanto para adicionar ou remover.
 
 
